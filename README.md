@@ -31,9 +31,5 @@ The goal of this project is to create a responsive and user-friendly website for
 - **Google Fonts**: To maintain professional typography across the site.
 - **SEO Optimization**: Each page includes meta tags and relevant keywords to improve visibility on search engines.
 
-## How to Run the Project
 
-1. **Clone the Repository**: Clone this project to your local machine.
-   ```bash
-   git clone https://github.com/username/empowering-the-nation.git
 
